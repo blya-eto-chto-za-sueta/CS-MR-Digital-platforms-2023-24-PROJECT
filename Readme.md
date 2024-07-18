@@ -13,7 +13,7 @@
     Perminov Lev Alekseevich, 23934
     Trushkin Ilya Andreevich, 23934
 
-![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/2.png)
+![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/1.png)
 
 
 "Digital Flappy Bird" is a project focusing on the development of the popular game "Flappy
@@ -35,5 +35,5 @@ between rows of green pipes without hitting them.
     Digital Flappy Bird.circ 
     screenMessage .circ
 
-![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/3.png)
+![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/2.png)
 
