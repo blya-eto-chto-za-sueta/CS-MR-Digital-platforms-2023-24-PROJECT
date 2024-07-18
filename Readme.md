@@ -13,7 +13,8 @@
     Perminov Lev Alekseevich, 23934
     Trushkin Ilya Andreevich, 23934
 
-![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/1.png)
+![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/2.png)
+
 
 "Digital Flappy Bird" is a project focusing on the development of the popular game "Flappy
 Bird" within the scope of the CS/MR Digital Platforms course 2023/24. FB is a mobile game where players control the flight of a bird by tapping the screen, maneuvering it
@@ -33,4 +34,6 @@ between rows of green pipes without hitting them.
     CdM-8-mark5-banks 2.circ 
     Digital Flappy Bird.circ 
     screenMessage .circ
+
+![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/3.png)
 
