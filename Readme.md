@@ -36,6 +36,6 @@ between rows of green pipes without hitting them.
 2. Digital Flappy Bird.circ 
 3. screenMessage .circ
 
-###Gameplay recording:
+### Gameplay recording:
 ![Digital Flappy Bird](https://github.com/user-attachments/assets/c3a9516a-49c7-4e44-8531-1c0883624550)
 
