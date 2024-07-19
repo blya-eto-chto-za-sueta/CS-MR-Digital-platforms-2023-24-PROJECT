@@ -31,9 +31,9 @@ between rows of green pipes without hitting them.
 
 
 ### files required to run the game
-    CdM-8-mark5-banks 2.circ 
-    Digital Flappy Bird.circ 
-    screenMessage .circ
+1. CdM-8-mark5-banks 2.circ 
+2. Digital Flappy Bird.circ 
+3. screenMessage .circ
 
 ![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/2.png)
 
