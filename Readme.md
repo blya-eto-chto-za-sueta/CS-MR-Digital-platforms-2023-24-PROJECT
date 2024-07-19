@@ -13,6 +13,7 @@
     Perminov Lev Alekseevich, 23934
     Trushkin Ilya Andreevich, 23934
 
+### Idea:
 ![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/1.png)
 
 
@@ -30,11 +31,11 @@ between rows of green pipes without hitting them.
 7. Digital_Platforms_Explanatory_Note_Template_2024.pdf - course project explanotory note.
 
 
-### files required to run the game
+### files required to run the game:
 1. CdM-8-mark5-banks 2.circ 
 2. Digital Flappy Bird.circ 
 3. screenMessage .circ
 
-
+###Gameplay recording:
 ![Digital Flappy Bird](https://github.com/user-attachments/assets/c3a9516a-49c7-4e44-8531-1c0883624550)
 
