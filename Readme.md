@@ -35,5 +35,6 @@ between rows of green pipes without hitting them.
 2. Digital Flappy Bird.circ 
 3. screenMessage .circ
 
-![Screenshot](https://github.com/blya-eto-chto-za-sueta/CS-MR-Digital-platforms-2023-24-PROJECT/blob/main/2.png)
+
+![Digital Flappy Bird](https://github.com/user-attachments/assets/c3a9516a-49c7-4e44-8531-1c0883624550)
 
